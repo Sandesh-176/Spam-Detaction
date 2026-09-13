@@ -1,1 +1,1 @@
-# Spam-Detactioon
+# Spam-Detaction
